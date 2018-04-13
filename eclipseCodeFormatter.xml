@@ -1,0 +1,17 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1523022490697" />
+          <option name="importOrderConfigFilePath" value="C:/Dev/vestmarkone/ide/eclipse/vestmark.importorder" />
+          <option name="importOrderFromFile" value="true" />
+          <option name="name" value="vestmarkone" />
+          <option name="pathToConfigFileJava" value="C:/Dev/vestmarkone/ide/eclipse/vestmark_format.xml" />
+          <option name="selectedJavaProfile" value="vestmark" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
