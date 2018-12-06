@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="data.xml" />
+    <option name="FILE_MASK" value="patches.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +18,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>data.xml</mask>
+    <mask>patches.xml</mask>
   </component>
 </application>
