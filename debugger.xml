@@ -82,6 +82,17 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.viviport.business.services.reconciliation.engine.PostingTestHelper" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.viviport.business.services.reconciliation.engine.PostingTestHelper" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="cashName&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.viviport.business.modules.components.portlet.application.model.ModelComplianceRuleTest" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="com.viviport.business.modules.components.portlet.application.model.ModelComplianceRuleTest" />
