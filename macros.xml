@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="constant cash">
+      <action id="Replace" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorPaste" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <shortuct text="RIGHT" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="80:0;65:0;83:0">pas</typing>
+    </macro>
+  </component>
+</application>
