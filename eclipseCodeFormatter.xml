@@ -2,7 +2,7 @@
   <component name="EclipseCodeFormatterSettings">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="68" />
+        <option name="actionsExecuted" value="69" />
         <option name="firstUsage" value="1537905864994" />
         <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
         <option name="lastNaggingDate" value="1538494549026" />
@@ -13,10 +13,10 @@
         <Settings>
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1523022490697" />
-          <option name="importOrderConfigFilePath" value="C:/Dev/vestmarkone/.ide-support/eclipse/4.9.7/vestmark.importorder" />
+          <option name="importOrderConfigFilePath" value="C:/Dev/ide-support/eclipse/src/main/resources/vestmark.importorder" />
           <option name="importOrderFromFile" value="true" />
           <option name="name" value="vestmarkone" />
-          <option name="pathToConfigFileJava" value="C:/Dev/vestmarkone/.ide-support/eclipse/4.9.7/vestmark_format.xml" />
+          <option name="pathToConfigFileJava" value="C:/Dev/ide-support/eclipse/src/main/resources/vestmark_format.xml" />
           <option name="selectedJavaProfile" value="vestmark" />
         </Settings>
       </list>
