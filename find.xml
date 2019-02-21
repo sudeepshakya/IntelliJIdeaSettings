@@ -18,5 +18,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
