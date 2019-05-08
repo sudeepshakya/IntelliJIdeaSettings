@@ -82,6 +82,28 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.viviport.business.services.mda.service.MdaInvestmentVehicleModelProcessingTest" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.viviport.business.services.mda.service.MdaInvestmentVehicleModelProcessingTest" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="cashIV&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.viviport.business.services.mda.service.MdaInvestmentVehicleModelProcessing" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.viviport.business.services.mda.service.MdaInvestmentVehicleModelProcessing" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.viviport.business.services.reconciliation.engine.ReconAlwaysSettledTransactionTest" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="com.viviport.business.services.reconciliation.engine.ReconAlwaysSettledTransactionTest" />
@@ -121,12 +143,5 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
