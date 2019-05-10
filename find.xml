@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\applications\sponsoradapters\thomsonbeta\testing\referenceDataConfigs\Beta_ReferenceDataServiceConfig_Security_ByName.xml [vestmarkone.applications]'" />
+    <option name="defaultScopeName" value="File '...\applications\sponsoradapters\thomsonbeta\testing\referenceDataConfigs\Beta_ReferenceDataServiceConfig_Security_ByName.xml [vestmarkone.applications]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\applications\sponsoradapters\thomsonbeta\testing\referenceDataConfigs\Beta_ReferenceDataServiceConfig_Security_ByName.xml [vestmarkone.applications]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
